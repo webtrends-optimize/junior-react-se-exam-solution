@@ -1,0 +1,25 @@
+body {
+    background: #282c34;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.field {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+label {
+    width: 200px;
+    display: inline-block;
+}
+
+input[type="text"], input[type="date"] {
+    width: 150px;
+}
